@@ -1,5 +1,5 @@
 # SocialSphere
-This project is a basic structure of <b>SOCIAL MEDIA DATABASE<b>  which could easily be connected to frontend interface.
+This project is a basic structure of <b>SOCIAL MEDIA DATABASE</b>  which could easily be connected to frontend interface.
 <br>
 
 <h5>User-Centric Data Handling:</h5>
